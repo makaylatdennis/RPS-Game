@@ -1,0 +1,45 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+
+.submission-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 18.75rems;
+    background-color: rgb(22, 48, 180);
+    height: 17rem;
+    width: 30rem;
+   border: solid  rgb(22, 48, 180);
+   border-radius: 1rem;
+}
+
+img{
+    position: relative;
+    height: 6rem;
+    width: 6rem;
+    bottom: 0;
+    
+}
+
+h1{
+   position: relative; 
+   font-size: 1.5rem;
+    top: 1rem;
+}
+
+.game{
+    text-align: center;
+}
+
+p{
+ margin-top: 1rem ;   
+}
